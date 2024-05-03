@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live preview](https://your-live-site-url.com)
+- Live Site URL: [Live preview](https://divadovitch.github.io/social-links-profile-main/)
 
 
 ### Built with
